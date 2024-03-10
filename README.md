@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @racheyShindelus
-- 📫 How to reach me: rachelfshindelus@gmail.com
+- 📫 How to reach me: rachelfshindelus@gmail.com or https://www.linkedin.com/in/rachel-shindelus-9122a5224
 - 😄 Pronouns: she/her/hers
 - 👀 I’m interested in expanding my repositories of CS projects.
 - 🔭 I’m currently studying Computer Science & Software Engineering at Sacramento State University
